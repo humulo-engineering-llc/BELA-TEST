@@ -1,0 +1,12 @@
+{
+"companyName": "HumuloEngineering",
+"productName": "BELA_Alpha",
+"dataUrl": "BELA-TEST.data.unityweb",
+"wasmCodeUrl": "BELA-TEST.wasm.code.unityweb",
+"wasmFrameworkUrl": "BELA-TEST.wasm.framework.unityweb",
+"TOTAL_MEMORY": 1073741824,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
